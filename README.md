@@ -11,7 +11,7 @@ print('--- Reading data containing movie ratings ---')
 print(ratings_data.head())
 print('----------------------\n\n')
 ```
-```python
+```console
 --- Reading data containing movie ratings ---
     userId  movieId  rating  timestamp
 0        1        1     4.0  964982703
