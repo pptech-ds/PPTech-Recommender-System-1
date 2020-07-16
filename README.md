@@ -1,6 +1,6 @@
 # About this project
 * To understand recommender system I followed the tutorial from "https://stackabuse.com/creating-a-simple-recommender-system-in-python-using-pandas"
-* Database used for this tuto comming from "https://grouplens.org/datasets/movielens/"
+* Database used for this tuto coming from "https://grouplens.org/datasets/movielens/"
 * For this project I will use the small one to ease data processing "http://files.grouplens.org/datasets/movielens/ml-latest-small.zip"
 
 
